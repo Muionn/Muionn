@@ -1,6 +1,6 @@
 # Hi, I'm Ridho Sandi! 👋
 
-I am an Information Engineering student at the Institute of Technology Sumatera (ITERA) with a deep passion for computer hardware. In my free time, I enjoy staying updated on the latest advancements in computer hardware, creating content, and exploring historical topics.
+I am an Informatics Engineering student at the Institute of Technology Sumatera (ITERA) with a deep passion for computer hardware. In my free time, I enjoy staying updated on the latest advancements in computer hardware, creating content, and exploring historical topics.
 
 ## ✨ What Excites Me
 I'm particularly interested in:
