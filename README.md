@@ -2,6 +2,13 @@
 
 I am an Information Engineering student at the Institute of Technology Sumatera (ITERA) with a deep passion for computer hardware. In my free time, I enjoy staying updated on the latest advancements in computer hardware, creating content, and exploring historical topics.
 
+## ✨ What Excites Me
+I'm particularly interested in:
+- The latest developments in **computer hardware**
+- **History** and historical analysis
+- **Military technology**
+- **Gaming** and the **gaming industry**
+
 ## 🔧 Technologies & Tools I Work With
 - **Programming Languages:** Python, JavaScript, C++
 - **Frameworks:** Bootstrap
