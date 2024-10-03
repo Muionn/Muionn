@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ridho Sandi! 👋
 
-<!--
-**Muionn/Muionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Engineering student at the Institute of Technology Sumatera (ITERA) with a deep passion for computer hardware. In my free time, I enjoy staying updated on the latest advancements in computer hardware, creating content, and exploring historical topics.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools I Work With
+- **Programming Languages:** Python, JavaScript, C++
+- **Frameworks:** Bootstrap
+- **Tools:** Git, VSCode
+- **Database:** MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Let's Collaborate!
+I'm always open to collaborating on exciting projects. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ridhosandi/) or [email](mailto:ridhosandi34@gmail.com).
+
+## 🌍 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ridhosandi/)
+- [YouTube](https://www.youtube.com/@muionn)
+- [TikTok](https://www.tiktok.com/@muionn)
+- [Instagram](https://www.instagram.com/muionn/)
