@@ -7,6 +7,7 @@ I'm particularly interested in:
 - The latest developments in **computer hardware**
 - **History** and historical analysis
 - **Military technology**
+- **Motorsports**, especially **car racing**, and the engineering behind high-performance vehicles
 - **Gaming** and the **gaming industry**
 
 ## 🔧 Technologies & Tools I Work With
